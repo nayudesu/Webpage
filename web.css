@@ -43,3 +43,20 @@ header {
   margin-top: 10px;
   font-size: 20px;
 }
+
+.portfolio {
+  background-color: #eceffe;
+  text-align: center;
+}
+
+.portfolio-main {
+  width: 950px;
+  margin: auto;
+}
+
+.portfolio-title {
+  padding-top: 90px;
+  padding-bottom: 8px;
+  font-size: 32px;
+  color: #000000;
+}
